@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Dominio\Entidades\" />
+    <Folder Include="Dominio\Modelo\" />
+    <Folder Include="Dominio\Repositorio\" />
+    <Folder Include="Infraestructura\Contextos\" />
+    <Folder Include="Infraestructura\Extensiones\" />
+    <Folder Include="Infraestructura\Repositorios\" />
+  </ItemGroup>
+
+</Project>
